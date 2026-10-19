@@ -1,0 +1,15 @@
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Node / dependencies (if any in future)
+node_modules/
+.npm
